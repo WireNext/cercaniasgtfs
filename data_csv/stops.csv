@@ -186,10 +186,10 @@ stop_id,stop_name,stop_lat,stop_lon,wheelchair_boarding
 5479,Ibarra,43.203959,-3.1448388,2
 5481,La Herrera,43.2034521,-3.1705687,2
 5483,Balmaseda,43.1963551,-3.1899562,2
-5484,Mimetiz,43.2132627,-3.1352774,1
+5484,Mimetiz,43.2158138,-3.1312555,1
 5485,La Calzada,43.1901154,-3.1974062,2
 5487,TraslaviÃ±a,43.23329,-3.198304,2
-5489,Artzentales,43.25,-3.22,2
+5489,Artzentales,43.2355083,-3.2133583,2
 5493,Villaverde De Trucios,43.24128,-3.25054,2
 5497,Karrantza,43.238854,-3.357827,2
 5504,Parque Principado,43.3865865,-5.8087971,2
@@ -619,6 +619,10 @@ stop_id,stop_name,stop_lat,stop_lon,wheelchair_boarding
 35200,Talavera De La Reina,39.970674,-4.826512,2
 35203,Oropesa De Toledo,39.921746,-5.186137,2
 35206,Navalmoral De La Mata,39.894913,-5.545607,2
+35207,Casatejada,39.891909,-5.677732,2
+35301,Mirabel,39.866229,-6.228969,2
+35302,Casas De MillÃ¡n,39.811866,-6.326045,2
+35303,CaÃ±averal,39.789124,-6.375031,2
 35400,CÃ¡ceres,39.461131,-6.385679,1
 35600,Aluche,40.3856677,-3.7607343,2
 35601,Maestra Justa Freire-Polidep. Aluche,40.3836379,-3.7686869,2
