@@ -836,9 +836,6 @@ stop_id,stop_name,stop_lat,stop_lon,wheelchair_boarding
 67010,CariÃ±ena,41.335586,-1.228422,2
 67011,Encinacorba,41.28865,-1.278534,2
 67013,Villarreal De Huerva,41.196498,-1.287096,2
-67014,Villadoz,41.165482,-1.279339,2
-67015,Badules,41.13951,-1.251572,2
-67016,Villahermosa,41.108492,-1.239803,2
 67017,Ferreruela,41.06387,-1.239384,2
 67021,Calamocha,40.903864,-1.299841,2
 67100,Caminreal-Fuentes Claras,40.85111,-1.33765,2
@@ -1047,8 +1044,6 @@ stop_id,stop_name,stop_lat,stop_lon,wheelchair_boarding
 77307,Urtx-Alp,42.3768624,1.89685307,2
 77309,PuigcerdÃ ,42.4296256,1.92458355,2
 77310,La Tour De Carol,42.4590288,1.90438312,2
-78005,Villanueva De GÃ¡llego,41.76551,-0.822204,2
-78200,Tardienta,41.975716,-0.538223,2
 78400,Lleida-Pirineus,41.62013,0.63365328,1
 78402,Bell-Lloc D'urgell,41.631619,0.781547,2
 78403,Mollerussa,41.631779,0.896775,2
