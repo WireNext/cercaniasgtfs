@@ -93,6 +93,10 @@ route_id,route_short_name,route_long_name,route_type,route_color,route_text_colo
 10T0094C10 ,C10 ,Nuevos Ministerios                      -Pinar de las Rozas                      ,2,BCCF00,FFFFFF                                    
 10T0095C4  ,C4  ,                                        -Tres Cantos                             ,2,2C2A86,FFFFFF                                    
 10T0096C4  ,C4  ,Tres Cantos                             -                                        ,2,2C2A86,FFFFFF                                    
+10T0097C8b ,C8b ,                                        -Cercedilla                              ,2,868584,FFFFFF                                    
+10T0098C8b ,C8b ,Cercedilla                              -                                        ,2,868584,FFFFFF                                    
+10T0099C3  ,C3  ,Villaverde Bajo                         -Getafe Industrial                       ,2,952585,FFFFFF                                    
+10T0100C3  ,C3  ,Getafe Industrial                       -Villaverde Bajo                         ,2,952585,FFFFFF                                    
 20T0001C1  ,C1  ,Gijon (Sanz Crespo)                     -Puente L.Fierros                        ,2,EC3541,FFFFFF                                    
 20T0002C1  ,C1  ,Puente L.Fierros                        -Gijon (Sanz Crespo)                     ,2,EC3541,FFFFFF                                    
 20T0003C2  ,C2  ,Oviedo                                  -El Entrego                              ,2,009746,FFFFFF                                    
