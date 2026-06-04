@@ -520,6 +520,8 @@ route_id,route_short_name,route_long_name,route_type,route_color,route_text_colo
 51T0170R15 ,R15 ,                                        -Mora la Nova                            ,2,978571,FFFFFF                                    
 51T0171R15 ,R15 ,Sant Vicenc de Calders                  -El Prat de Llobregat                    ,3,978571,FFFFFF                                    
 51T0172R15 ,R15 ,El Prat de Llobregat                    -Sant Vicenc de Calders                  ,3,978571,FFFFFF                                    
+51T0173R16 ,R16 ,El Prat de Llobregat                    -Sant Vicenc de Calders                  ,3,0fcf34,FFFFFF                                    
+51T0174R16 ,R16 ,Sant Vicenc de Calders                  -El Prat de Llobregat                    ,3,0fcf34,FFFFFF                                    
 60T0001C1  ,C1  ,Abando                                  -Santurtzi                               ,2,D7001E,FFFFFF                                    
 60T0002C1  ,C1  ,Santurtzi                               -Abando                                  ,2,D7001E,FFFFFF                                    
 60T0003C2  ,C2  ,Abando                                  -Muskiz                                  ,2,0F8C2D,FFFFFF                                    
