@@ -379,6 +379,7 @@ stop_id,stop_name,stop_lat,stop_lon,wheelchair_boarding
 7003,JaravÃ­a,37.3924632,-1.69304,2
 7004,Ãguilas,37.409865,-1.5725342,2
 7007,Ãguilas-El Labradorcico,37.4119664,-1.5858719,2
+8004,Segovia-Guiomar,40.910577,-4.094564,1
 10000,Madrid-PrÃ­ncipe PÃ­o,40.4214895,-3.7189689,1
 10001,Aravaca,40.4484551,-3.7855547,2
 10002,Pozuelo,40.4474569,-3.8002779,2
@@ -413,6 +414,7 @@ stop_id,stop_name,stop_lat,stop_lon,wheelchair_boarding
 11009,VillaquirÃ¡n,42.215717,-3.999396,2
 11014,Burgos-Rosa Manzano,42.371197,-3.666308,1
 11109,Briviesca,42.542765,-3.319287,2
+11200,Miranda de Ebro,42.691024,-2.940366,1
 11305,Brinkola,43.0189865,-2.3346811,2
 11306,Legazpi,43.0510385,-2.3306103,2
 11400,Zumarraga,43.0870824,-2.3202298,2
