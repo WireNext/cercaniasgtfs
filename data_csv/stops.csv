@@ -832,22 +832,6 @@ stop_id,stop_name,stop_lat,stop_lon,wheelchair_boarding
 66211,Aldaia,39.4611179,-0.4632476,2
 66212,ValÃ¨ncia-Sant Isidre,39.4502194,-0.4039788,2
 66214,Xirivella-Alqueries,39.4626294,-0.432216,2
-67007,AraÃ±ales de Muel,41.468946,-1.086394,2
-67010,CariÃ±ena,41.335586,-1.228422,2
-67011,Encinacorba,41.28865,-1.278534,2
-67013,Villarreal de Huerva,41.196498,-1.287096,2
-67017,Ferreruela,41.06387,-1.239384,2
-67021,Calamocha,40.903864,-1.299841,2
-67105,Santa Eulalia del Campo,40.572917,-1.312995,2
-67107,Cella,40.455266,-1.244329,2
-67113,Monreal del Campo,40.782321,-1.360792,2
-67200,Teruel,40.341029,-1.110284,1
-67202,Puerto EscandÃ³n,40.273092,-0.985079,2
-67203,Puebla de Valverde,40.213424,-0.944674,2
-67205,SarriÃ³n,40.146339,-0.823631,2
-67206,Mora de Rubielos,40.123142,-0.786145,2
-67207,Rubielos de Mora,40.118006,-0.773463,2
-67208,Barracas,40.01174,-0.696151,2
 67211,Caudiel,39.9473696,-0.5720537,2
 67212,JÃ©rica-Viver,39.9149777,-0.5693896,2
 67213,Navajas,39.8744166,-0.5059546,2
@@ -961,7 +945,7 @@ stop_id,stop_name,stop_lat,stop_lon,wheelchair_boarding
 71705,Castelldefels,41.2790474,1.97915126,2
 71706,GavÃ ,41.3034722,2.01053111,2
 71707,El Prat de Llobregat,41.3309401,2.08934473,2
-71708,Bellvitge Â¨ Gornal,41.3549216,2.1152733,2
+71708,Bellvitge - Gornal,41.3549216,2.1152733,2
 71709,Viladecans,41.3095086,2.02741857,2
 71801,Barcelona-Sants,41.3798632,2.14101688,1
 71802,Barcelona-Passeig de GrÃ cia,41.3920862,2.16533862,2
@@ -1074,7 +1058,7 @@ stop_id,stop_name,stop_lat,stop_lon,wheelchair_boarding
 78709,Sabadell Nord,41.5619773,2.09622844,2
 78710,Terrassa Est,41.5675296,2.03963639,2
 78800,Montcada-BifurcaciÃ³,41.4698402,2.18001578,2
-78801,Barcelona Torre BarÃ³ Â¨Vallbona,41.4609684,2.18102036,2
+78801,Barcelona Torre BarÃ³ -Vallbona,41.4609684,2.18102036,2
 78802,Barcelona Fabra i Puig,41.4303481,2.18332907,2
 78804,Barcelona Arc de Triomf,41.3919048,2.18063916,2
 78805,Barcelona PlaÃ§a de Catalunya,41.3879231,2.16970383,1
