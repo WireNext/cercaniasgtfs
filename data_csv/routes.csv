@@ -272,20 +272,28 @@ route_id,route_short_name,route_long_name,route_type,route_color,route_text_colo
 30T0029C5  ,C5  ,Santa Justa                             -Benacazon                               ,2,073588,FFFFFF                                    
 30T0030C5  ,C5  ,Benacazon                               -Santa Justa                             ,2,073588,FFFFFF                                    
 30T0031CR20,CR20,                                        -                                        ,3,FFFFFF,FFFFFF                                    
-30T0032CR20,CR20,                                        -Santa Justa                             ,3,FFFFFF,FFFFFF                                    
-30T0033C3  ,C3  ,                                        -Santa Justa                             ,3,E4242D,FFFFFF                                    
-30T0034CR20,CR20,                                        -Santa Justa                             ,3,FFFFFF,FFFFFF                                    
-30T0035C3  ,C3  ,                                        -Santa Justa                             ,3,E4242D,FFFFFF                                    
-30T0036C3  ,C3  ,Cazalla-Constantina                     -Los Rosales                             ,3,E4242D,FFFFFF                                    
-30T0037C5  ,C5  ,Benacazon                               -Santa Justa                             ,3,073588,FFFFFF                                    
-30T0038C3  ,C3  ,Los Rosales                             -Cazalla-Constantina                     ,3,E4242D,FFFFFF                                    
-30T0039CR20,CR20,Santa Justa                             -                                        ,3,FFFFFF,FFFFFF                                    
-30T0040C3  ,C3  ,Santa Justa                             -                                        ,3,E4242D,FFFFFF                                    
-30T0041C3  ,C3  ,Santa Justa                             -                                        ,3,E4242D,FFFFFF                                    
-30T0042CR20,CR20,Santa Justa                             -                                        ,3,FFFFFF,FFFFFF                                    
-30T0043C3  ,C3  ,Santa Justa                             -                                        ,3,E4242D,FFFFFF                                    
-30T0044C3  ,C3  ,Santa Justa                             -                                        ,3,E4242D,FFFFFF                                    
-30T0045C5  ,C5  ,Santa Justa                             -Benacazon                               ,3,073588,FFFFFF                                    
+30T0032CR20,CR20,                                        -                                        ,3,FFFFFF,FFFFFF                                    
+30T0033CR20,CR20,                                        -Santa Justa                             ,3,FFFFFF,FFFFFF                                    
+30T0034C3  ,C3  ,                                        -Santa Justa                             ,3,E4242D,FFFFFF                                    
+30T0035CR20,CR20,                                        -Santa Justa                             ,3,FFFFFF,FFFFFF                                    
+30T0036CR20,CR20,                                        -Santa Justa                             ,3,FFFFFF,FFFFFF                                    
+30T0037C3  ,C3  ,                                        -Santa Justa                             ,3,E4242D,FFFFFF                                    
+30T0038C3  ,C3  ,                                        -Santa Justa                             ,3,E4242D,FFFFFF                                    
+30T0039C3  ,C3  ,Cazalla-Constantina                     -Los Rosales                             ,3,E4242D,FFFFFF                                    
+30T0040C3  ,C3  ,Cazalla-Constantina                     -Los Rosales                             ,3,E4242D,FFFFFF                                    
+30T0041C5  ,C5  ,Benacazon                               -Santa Justa                             ,3,073588,FFFFFF                                    
+30T0042C3  ,C3  ,Los Rosales                             -Cazalla-Constantina                     ,3,E4242D,FFFFFF                                    
+30T0043C3  ,C3  ,Los Rosales                             -Cazalla-Constantina                     ,3,E4242D,FFFFFF                                    
+30T0044CR20,CR20,Santa Justa                             -                                        ,3,FFFFFF,FFFFFF                                    
+30T0045C3  ,C3  ,Santa Justa                             -                                        ,3,E4242D,FFFFFF                                    
+30T0046C3  ,C3  ,Santa Justa                             -                                        ,3,E4242D,FFFFFF                                    
+30T0047CR20,CR20,Santa Justa                             -                                        ,3,FFFFFF,FFFFFF                                    
+30T0048CR20,CR20,Santa Justa                             -                                        ,3,FFFFFF,FFFFFF                                    
+30T0049C3  ,C3  ,Santa Justa                             -                                        ,3,E4242D,FFFFFF                                    
+30T0050C3  ,C3  ,Santa Justa                             -                                        ,3,E4242D,FFFFFF                                    
+30T0051C3  ,C3  ,Santa Justa                             -                                        ,3,E4242D,FFFFFF                                    
+30T0052C3  ,C3  ,Santa Justa                             -                                        ,3,E4242D,FFFFFF                                    
+30T0053C5  ,C5  ,Santa Justa                             -Benacazon                               ,3,073588,FFFFFF                                    
 31T0001C1  ,C1  ,CÃ¡diz                                   -Aeropuerto de Jerez                     ,2,D7001E,FFFFFF                                    
 31T0002C1  ,C1  ,Aeropuerto de Jerez                     -CÃ¡diz                                   ,2,D7001E,FFFFFF                                    
 31T0003C1a ,C1a ,Las Aletas                              -Universidad                             ,2,D7001E,FFFFFF                                    
@@ -421,10 +429,14 @@ route_id,route_short_name,route_long_name,route_type,route_color,route_text_colo
 41T0026C2  ,C2  ,Aguilas                                 -Lorca-Sutullena                         ,3,E93CAC,FFFFFF                                    
 41T0027C2  ,C2  ,Aguilas                                 -Murcia del Carmen                       ,3,E93CAC,FFFFFF                                    
 41T0028C2  ,C2  ,Aguilas                                 -Murcia del Carmen                       ,3,E93CAC,FFFFFF                                    
-41T0029C2  ,C2  ,Murcia del Carmen                       -Lorca-Sutullena                         ,3,E93CAC,FFFFFF                                    
-41T0030C2  ,C2  ,Murcia del Carmen                       -Lorca-Sutullena                         ,3,E93CAC,FFFFFF                                    
-41T0031C2  ,C2  ,Murcia del Carmen                       -Aguilas                                 ,3,E93CAC,FFFFFF                                    
-41T0032C2  ,C2  ,Murcia del Carmen                       -Aguilas                                 ,3,E93CAC,FFFFFF                                    
+41T0029C1  ,C1  ,Alacant Terminal                        -Callosa de Segura                       ,3,73B6E0,FFFFFF                                    
+41T0030C1  ,C1  ,Alacant Terminal                        -Crevillent                              ,3,73B6E0,FFFFFF                                    
+41T0031C2  ,C2  ,Murcia del Carmen                       -Lorca-Sutullena                         ,3,E93CAC,FFFFFF                                    
+41T0032C2  ,C2  ,Murcia del Carmen                       -Lorca-Sutullena                         ,3,E93CAC,FFFFFF                                    
+41T0033C2  ,C2  ,Murcia del Carmen                       -Aguilas                                 ,3,E93CAC,FFFFFF                                    
+41T0034C2  ,C2  ,Murcia del Carmen                       -Aguilas                                 ,3,E93CAC,FFFFFF                                    
+41T0035C1  ,C1  ,Callosa de Segura                       -Alacant Terminal                        ,3,73B6E0,FFFFFF                                    
+41T0036C1  ,C1  ,Crevillent                              -Alacant Terminal                        ,3,73B6E0,FFFFFF                                    
 45T0001C1  ,C1  ,Cartagena                               -Los Nietos                              ,2,D7001E,FFFFFF                                    
 45T0002C1  ,C1  ,Los Nietos                              -Cartagena                               ,2,D7001E,FFFFFF                                    
 46T0001C1  ,C1  ,Ferrol                                  -Ortigueira                              ,2,D7001E,FFFFFF                                    
