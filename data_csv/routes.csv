@@ -326,16 +326,13 @@ route_id,route_short_name,route_long_name,route_type,route_color,route_text_colo
 32T0017C2  ,C2  ,                                        -CÃ¡rtama                                 ,2,0fcf34,FFFFFF                                    
 32T0018C2  ,C2  ,CÃ¡rtama                                 -                                        ,2,0fcf34,FFFFFF                                    
 32T0019C2  ,C2  ,                                        -CÃ¡rtama                                 ,3,0fcf34,FFFFFF                                    
-32T0020SR18,SR18,                                        -CÃ¡rtama                                 ,3,FFFFFF,FFFFFF                                    
-32T0021C2  ,C2  ,Ãlora                                   -CÃ¡rtama                                 ,3,0fcf34,FFFFFF                                    
-32T0022C2  ,C2  ,Ãlora                                   -MÃ¡laga-M.Z.                             ,3,0fcf34,FFFFFF                                    
-32T0023C2  ,C2  ,Pizarra                                 -CÃ¡rtama                                 ,3,0fcf34,FFFFFF                                    
-32T0024C2  ,C2  ,CÃ¡rtama                                 -                                        ,3,0fcf34,FFFFFF                                    
-32T0025SR06,SR06,CÃ¡rtama                                 -                                        ,3,FFFFFF,FFFFFF                                    
-32T0026SR18,SR18,CÃ¡rtama                                 -                                        ,3,FFFFFF,FFFFFF                                    
-32T0027C2  ,C2  ,CÃ¡rtama                                 -Ãlora                                   ,3,0fcf34,FFFFFF                                    
-32T0028C2  ,C2  ,CÃ¡rtama                                 -Pizarra                                 ,3,0fcf34,FFFFFF                                    
-32T0029C2  ,C2  ,MÃ¡laga-Centro Alameda                   -Ãlora                                   ,3,0fcf34,FFFFFF                                    
+32T0020C2  ,C2  ,Ãlora                                   -CÃ¡rtama                                 ,3,0fcf34,FFFFFF                                    
+32T0021C2  ,C2  ,Ãlora                                   -MÃ¡laga-M.Z.                             ,3,0fcf34,FFFFFF                                    
+32T0022C2  ,C2  ,Pizarra                                 -CÃ¡rtama                                 ,3,0fcf34,FFFFFF                                    
+32T0023C2  ,C2  ,CÃ¡rtama                                 -                                        ,3,0fcf34,FFFFFF                                    
+32T0024C2  ,C2  ,CÃ¡rtama                                 -Ãlora                                   ,3,0fcf34,FFFFFF                                    
+32T0025C2  ,C2  ,CÃ¡rtama                                 -Pizarra                                 ,3,0fcf34,FFFFFF                                    
+32T0026C2  ,C2  ,MÃ¡laga-Centro Alameda                   -Ãlora                                   ,3,0fcf34,FFFFFF                                    
 40T0001C1  ,C1  ,Valencia Nord                           -Platja i Grau de Gandia                 ,2,7AB3DE,FFFFFF                                    
 40T0002C1  ,C1  ,Platja i Grau de Gandia                 -Valencia Nord                           ,2,7AB3DE,FFFFFF                                    
 40T0005C2  ,C2  ,Valencia Nord                           -Moixent                                 ,2,F79529,FFFFFF                                    
