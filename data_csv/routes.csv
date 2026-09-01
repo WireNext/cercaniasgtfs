@@ -332,8 +332,10 @@ route_id,route_short_name,route_long_name,route_type,route_color,route_text_colo
 32T0016C2  ,C2  ,Ãlora                                   -CÃ¡rtama                                 ,2,0fcf34,FFFFFF                                    
 32T0017C2  ,C2  ,                                        -CÃ¡rtama                                 ,2,0fcf34,FFFFFF                                    
 32T0018C2  ,C2  ,CÃ¡rtama                                 -                                        ,2,0fcf34,FFFFFF                                    
-32T0019C2  ,C2  ,Ãlora                                   -MÃ¡laga-M.Z.                             ,3,0fcf34,FFFFFF                                    
-32T0020C2  ,C2  ,MÃ¡laga-Centro Alameda                   -Ãlora                                   ,3,0fcf34,FFFFFF                                    
+32T0019C2  ,C2  ,Ãlora                                   -                                        ,2,0fcf34,FFFFFF                                    
+32T0020C2  ,C2  ,                                        -Ãlora                                   ,2,0fcf34,FFFFFF                                    
+32T0021C2  ,C2  ,Ãlora                                   -MÃ¡laga-M.Z.                             ,3,0fcf34,FFFFFF                                    
+32T0022C2  ,C2  ,MÃ¡laga-Centro Alameda                   -Ãlora                                   ,3,0fcf34,FFFFFF                                    
 40T0001C1  ,C1  ,Valencia Nord                           -Platja i Grau de Gandia                 ,2,7AB3DE,FFFFFF                                    
 40T0002C1  ,C1  ,Platja i Grau de Gandia                 -Valencia Nord                           ,2,7AB3DE,FFFFFF                                    
 40T0005C2  ,C2  ,Valencia Nord                           -Moixent                                 ,2,F79529,FFFFFF                                    
@@ -813,26 +815,29 @@ route_id,route_short_name,route_long_name,route_type,route_color,route_text_colo
 62T0040C3  ,C3  ,Astillero                               -Solares                                 ,2,0060A9,FFFFFF                                    
 62T0041C3  ,C3  ,LiÃ©rganes                               -Astillero                               ,2,0060A9,FFFFFF                                    
 62T0042C3  ,C3  ,Astillero                               -LiÃ©rganes                               ,2,0060A9,FFFFFF                                    
-62T0043C3  ,C3  ,Astillero                               -La CantÃ¡brica                           ,3,0060A9,FFFFFF                                    
-62T0044C3  ,C3  ,Astillero                               -La CantÃ¡brica                           ,3,0060A9,FFFFFF                                    
-62T0045C3  ,C3  ,Astillero                               -Solares                                 ,3,0060A9,FFFFFF                                    
-62T0046C3  ,C3  ,Astillero                               -Solares                                 ,3,0060A9,FFFFFF                                    
-62T0047C3  ,C3  ,Astillero                               -LiÃ©rganes                               ,3,0060A9,FFFFFF                                    
-62T0048C3  ,C3  ,Astillero                               -LiÃ©rganes                               ,3,0060A9,FFFFFF                                    
-62T0049C3  ,C3  ,La CantÃ¡brica                           -Astillero                               ,3,0060A9,FFFFFF                                    
-62T0050C3  ,C3  ,La CantÃ¡brica                           -Astillero                               ,3,0060A9,FFFFFF                                    
-62T0051C3  ,C3  ,Solares                                 -Astillero                               ,3,0060A9,FFFFFF                                    
-62T0052C3  ,C3  ,Solares                                 -Astillero                               ,3,0060A9,FFFFFF                                    
-62T0053C3  ,C3  ,LiÃ©rganes                               -Astillero                               ,3,0060A9,FFFFFF                                    
-62T0054C3  ,C3  ,LiÃ©rganes                               -Astillero                               ,3,0060A9,FFFFFF                                    
-62T0055C1  ,C1  ,Reinosa                                 -MaliaÃ±o                                 ,3,EF3340,FFFFFF                                    
-62T0056C1  ,C1  ,Barcena                                 -MaliaÃ±o                                 ,3,EF3340,FFFFFF                                    
-62T0057C1  ,C1  ,Los Corrales Buelna                     -MaliaÃ±o                                 ,3,EF3340,FFFFFF                                    
-62T0058C1  ,C1  ,Renedo                                  -MaliaÃ±o                                 ,3,EF3340,FFFFFF                                    
-62T0059C1  ,C1  ,MaliaÃ±o                                 -Reinosa                                 ,3,EF3340,FFFFFF                                    
-62T0060C1  ,C1  ,MaliaÃ±o                                 -Barcena                                 ,3,EF3340,FFFFFF                                    
-62T0061C1  ,C1  ,MaliaÃ±o                                 -Los Corrales Buelna                     ,3,EF3340,FFFFFF                                    
-62T0062C1  ,C1  ,MaliaÃ±o                                 -Renedo                                  ,3,EF3340,FFFFFF                                    
+62T0043C3  ,C3  ,MaliaÃ±o La Vidriera                     -La CantÃ¡brica                           ,3,0060A9,FFFFFF                                    
+62T0044C3  ,C3  ,MaliaÃ±o La Vidriera                     -Solares                                 ,3,0060A9,FFFFFF                                    
+62T0045C3  ,C3  ,MaliaÃ±o La Vidriera                     -LiÃ©rganes                               ,3,0060A9,FFFFFF                                    
+62T0046C3  ,C3  ,Astillero                               -La CantÃ¡brica                           ,3,0060A9,FFFFFF                                    
+62T0047C3  ,C3  ,Astillero                               -La CantÃ¡brica                           ,3,0060A9,FFFFFF                                    
+62T0048C3  ,C3  ,Astillero                               -Solares                                 ,3,0060A9,FFFFFF                                    
+62T0049C3  ,C3  ,Astillero                               -Solares                                 ,3,0060A9,FFFFFF                                    
+62T0050C3  ,C3  ,Astillero                               -LiÃ©rganes                               ,3,0060A9,FFFFFF                                    
+62T0051C3  ,C3  ,Astillero                               -LiÃ©rganes                               ,3,0060A9,FFFFFF                                    
+62T0052C3  ,C3  ,La CantÃ¡brica                           -Astillero                               ,3,0060A9,FFFFFF                                    
+62T0053C3  ,C3  ,La CantÃ¡brica                           -Astillero                               ,3,0060A9,FFFFFF                                    
+62T0054C3  ,C3  ,Solares                                 -Astillero                               ,3,0060A9,FFFFFF                                    
+62T0055C3  ,C3  ,Solares                                 -Astillero                               ,3,0060A9,FFFFFF                                    
+62T0056C3  ,C3  ,LiÃ©rganes                               -Astillero                               ,3,0060A9,FFFFFF                                    
+62T0057C3  ,C3  ,LiÃ©rganes                               -Astillero                               ,3,0060A9,FFFFFF                                    
+62T0058C1  ,C1  ,Reinosa                                 -MaliaÃ±o                                 ,3,EF3340,FFFFFF                                    
+62T0059C1  ,C1  ,Barcena                                 -MaliaÃ±o                                 ,3,EF3340,FFFFFF                                    
+62T0060C1  ,C1  ,Los Corrales Buelna                     -MaliaÃ±o                                 ,3,EF3340,FFFFFF                                    
+62T0061C1  ,C1  ,Renedo                                  -MaliaÃ±o                                 ,3,EF3340,FFFFFF                                    
+62T0062C1  ,C1  ,MaliaÃ±o                                 -Reinosa                                 ,3,EF3340,FFFFFF                                    
+62T0063C1  ,C1  ,MaliaÃ±o                                 -Barcena                                 ,3,EF3340,FFFFFF                                    
+62T0064C1  ,C1  ,MaliaÃ±o                                 -Los Corrales Buelna                     ,3,EF3340,FFFFFF                                    
+62T0065C1  ,C1  ,MaliaÃ±o                                 -Renedo                                  ,3,EF3340,FFFFFF                                    
 70T0001C1  ,C1  ,Casetas                                 -Miraflores                              ,2,D90724,FFFFFF                                    
 70T0002C1  ,C1  ,Miraflores                              -Casetas                                 ,2,D90724,FFFFFF                                    
 70T0003C1  ,C1  ,Casetas                                 -Miraflores                              ,2,D90724,FFFFFF                                    
