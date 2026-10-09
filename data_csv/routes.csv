@@ -103,20 +103,15 @@ route_id,route_short_name,route_long_name,route_type,route_color,route_text_colo
 10T0104C8b ,C8b ,Atocha                                  -Los Molinos                             ,2,868584,FFFFFF                                    
 10T0105C2c ,C2c ,Guadalajara                             -ChamartÃ­n - Clara Campoamor             ,2,00943D,FFFFFF                                    
 10T0106C2c ,C2c ,ChamartÃ­n - Clara Campoamor             -Guadalajara                             ,2,00943D,FFFFFF                                    
-10T0107ER04,ER04,                                        -Guadalajara                             ,3,FFFFFF,FFFFFF                                    
-10T0108ER08,ER08,                                        -Guadalajara                             ,3,FFFFFF,FFFFFF                                    
-10T0109C8b ,C8b ,Villalba                                -Cercedilla                              ,3,868584,FFFFFF                                    
-10T0110C8b ,C8b ,Los Molinos                             -Cercedilla                              ,3,868584,FFFFFF                                    
-10T0111C8b ,C8b ,Cercedilla                              -Villalba                                ,3,868584,FFFFFF                                    
-10T0112C8b ,C8b ,Cercedilla                              -Los Molinos                             ,3,868584,FFFFFF                                    
-10T0113C9  ,C9  ,Cercedilla                              -Cotos                                   ,3,915419,FFFFFF                                    
-10T0114C9  ,C9  ,Cercedilla                              -Cotos                                   ,3,915419,FFFFFF                                    
-10T0115C9  ,C9  ,Cotos                                   -Cercedilla                              ,3,915419,FFFFFF                                    
-10T0116C9  ,C9  ,Cotos                                   -Cercedilla                              ,3,915419,FFFFFF                                    
-10T0117C8b ,C8b ,                                        -Cercedilla                              ,3,868584,FFFFFF                                    
-10T0118C8b ,C8b ,                                        -Cercedilla                              ,3,868584,FFFFFF                                    
-10T0119ER04,ER04,                                        -Guadalajara                             ,3,FFFFFF,FFFFFF                                    
-10T0120ER08,ER08,                                        -Guadalajara                             ,3,FFFFFF,FFFFFF                                    
+10T0107C8b ,C8b ,Villalba                                -Cercedilla                              ,3,868584,FFFFFF                                    
+10T0108C8b ,C8b ,Los Molinos                             -Cercedilla                              ,3,868584,FFFFFF                                    
+10T0109C8b ,C8b ,Cercedilla                              -Villalba                                ,3,868584,FFFFFF                                    
+10T0110C8b ,C8b ,Cercedilla                              -Los Molinos                             ,3,868584,FFFFFF                                    
+10T0111C9  ,C9  ,Cercedilla                              -Cotos                                   ,3,915419,FFFFFF                                    
+10T0112C9  ,C9  ,Cercedilla                              -Cotos                                   ,3,915419,FFFFFF                                    
+10T0113C9  ,C9  ,Cotos                                   -Cercedilla                              ,3,915419,FFFFFF                                    
+10T0114C9  ,C9  ,Cotos                                   -Cercedilla                              ,3,915419,FFFFFF                                    
+10T0115C8b ,C8b ,                                        -Cercedilla                              ,3,868584,FFFFFF                                    
 20T0001C1  ,C1  ,Gijon (Sanz Crespo)                     -Puente L.Fierros                        ,2,EC3541,FFFFFF                                    
 20T0002C1  ,C1  ,Puente L.Fierros                        -Gijon (Sanz Crespo)                     ,2,EC3541,FFFFFF                                    
 20T0003C2  ,C2  ,Oviedo                                  -El Entrego                              ,2,009746,FFFFFF                                    
@@ -663,8 +658,7 @@ route_id,route_short_name,route_long_name,route_type,route_color,route_text_colo
 51T0225R3  ,R3  ,Barcelona-Fabra i Puig                  -La Garriga                              ,3,E54A3C,FFFFFF                                    
 51T0226R3  ,R3  ,Barcelona-Fabra i Puig                  -Centelles                               ,3,E54A3C,FFFFFF                                    
 51T0227R3  ,R3  ,Barcelona-Fabra i Puig                  -Vic                                     ,3,E54A3C,FFFFFF                                    
-51T0228R1  ,R1  ,MaÃ§anet-Massanes                        -Blanes                                  ,3,094188,FFFFFF                                    
-51T0229R1  ,R1  ,Blanes                                  -MaÃ§anet-Massanes                        ,3,094188,FFFFFF                                    
+51T0228R1  ,R1  ,Blanes                                  -MaÃ§anet-Massanes                        ,3,094188,FFFFFF                                    
 60T0001C1  ,C1  ,Abando                                  -Santurtzi                               ,2,D7001E,FFFFFF                                    
 60T0002C1  ,C1  ,Santurtzi                               -Abando                                  ,2,D7001E,FFFFFF                                    
 60T0003C2  ,C2  ,Abando                                  -Muskiz                                  ,2,0F8C2D,FFFFFF                                    
