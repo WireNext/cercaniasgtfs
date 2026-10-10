@@ -658,7 +658,6 @@ route_id,route_short_name,route_long_name,route_type,route_color,route_text_colo
 51T0225R3  ,R3  ,Barcelona-Fabra i Puig                  -La Garriga                              ,3,E54A3C,FFFFFF                                    
 51T0226R3  ,R3  ,Barcelona-Fabra i Puig                  -Centelles                               ,3,E54A3C,FFFFFF                                    
 51T0227R3  ,R3  ,Barcelona-Fabra i Puig                  -Vic                                     ,3,E54A3C,FFFFFF                                    
-51T0228R1  ,R1  ,Blanes                                  -MaÃ§anet-Massanes                        ,3,094188,FFFFFF                                    
 60T0001C1  ,C1  ,Abando                                  -Santurtzi                               ,2,D7001E,FFFFFF                                    
 60T0002C1  ,C1  ,Santurtzi                               -Abando                                  ,2,D7001E,FFFFFF                                    
 60T0003C2  ,C2  ,Abando                                  -Muskiz                                  ,2,0F8C2D,FFFFFF                                    
