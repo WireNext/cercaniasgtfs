@@ -29,6 +29,7 @@ route_id,route_short_name,route_long_name,route_type,route_color,route_text_colo
 10T0061C8a ,C8a ,El Escorial                             -ChamartÃ­n - Clara Campoamor             ,2,868584,FFFFFF                                    
 10T0062C8a ,C8a ,ChamartÃ­n - Clara Campoamor             -El Escorial                             ,2,868584,FFFFFF                                    
 10T0064C10 ,C10 ,Principe Pio                            -El Escorial                             ,2,BCCF00,FFFFFF                                    
+10T0071C10 ,C10 ,Pozuelo                                 -Pitis                                   ,2,BCCF00,FFFFFF                                    
 10T0075C10 ,C10 ,Torrelodones                            -ChamartÃ­n - Clara Campoamor             ,2,BCCF00,FFFFFF                                    
 10T0076C10 ,C10 ,ChamartÃ­n - Clara Campoamor             -Torrelodones                            ,2,BCCF00,FFFFFF                                    
 10T0085C8a ,C8a ,                                        -El Escorial                             ,2,868584,FFFFFF                                    
@@ -120,6 +121,8 @@ route_id,route_short_name,route_long_name,route_type,route_color,route_text_colo
 40T0030C2  ,C2  ,Xativa                                  -Benifaio - Almussafes                   ,2,F79529,FFFFFF                                    
 40T0043C3  ,C3  ,Valencia Nord                           -BuÃ±ol                                   ,2,7A2780,FFFFFF                                    
 40T0044C3  ,C3  ,BuÃ±ol                                   -Valencia Nord                           ,2,7A2780,FFFFFF                                    
+40T0045C3  ,C3  ,Valencia - F.S.L.                       -BuÃ±ol                                   ,2,7A2780,FFFFFF                                    
+40T0046C3  ,C3  ,BuÃ±ol                                   -Valencia - F.S.L.                       ,2,7A2780,FFFFFF                                    
 40T0049C2  ,C2  ,Moixent                                 -L'Alcudia de Crespins                   ,3,F79529,FFFFFF                                    
 40T0050C2  ,C2  ,Moixent                                 -Xativa                                  ,3,F79529,FFFFFF                                    
 40T0051C2  ,C2  ,L'Alcudia de Crespins                   -Moixent                                 ,3,F79529,FFFFFF                                    
