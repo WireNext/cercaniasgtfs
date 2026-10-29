@@ -69,7 +69,8 @@ route_id,route_short_name,route_long_name,route_type,route_color,route_text_colo
 20T0110C6  ,C6  ,L'infiestu Apd                          -El BerrÃ³n                               ,2,579BE2,FFFFFF                                    
 20T0113C6  ,C6  ,El BerrÃ³n                               -Nava                                    ,3,579BE2,FFFFFF                                    
 20T0115C6  ,C6  ,El BerrÃ³n                               -L'infiestu Apd                          ,3,579BE2,FFFFFF                                    
-20T0119C6  ,C6  ,L'infiestu Apd                          -El BerrÃ³n                               ,3,579BE2,FFFFFF                                    
+20T0119C6  ,C6  ,Carancos                                -L'infiestu Apd                          ,3,579BE2,FFFFFF                                    
+20T0120C6  ,C6  ,L'infiestu Apd                          -El BerrÃ³n                               ,3,579BE2,FFFFFF                                    
 30T0001C1  ,C1  ,Lora del Rio                            -Lebrija                                 ,2,78B4E1,FFFFFF                                    
 30T0002C1  ,C1  ,Lebrija                                 -Lora del Rio                            ,2,78B4E1,FFFFFF                                    
 30T0003C2  ,C2  ,Santa Justa                             -Cartuja                                 ,2,067B34,FFFFFF                                    
