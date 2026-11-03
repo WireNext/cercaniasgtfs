@@ -251,9 +251,6 @@ route_id,route_short_name,route_long_name,route_type,route_color,route_text_colo
 61T0002C1  ,C1  ,Brincola                                -Irun                                    ,2,DA001C,FFFFFF                                    
 61T0005C1  ,C1  ,                                        -Donostia-San Sebastian                  ,2,DA001C,FFFFFF                                    
 61T0006C1  ,C1  ,Donostia-San Sebastian                  -                                        ,2,DA001C,FFFFFF                                    
-61T0007C1  ,C1  ,Zumarraga                               -Hernani                                 ,2,DA001C,FFFFFF                                    
-61T0008C1  ,C1  ,Hernani                                 -Zumarraga                               ,2,DA001C,FFFFFF                                    
-61T0030C1  ,C1  ,Irun                                    -Lezo-Renteria                           ,3,DA001C,FFFFFF                                    
 62T0001C1  ,C1  ,Santander                               -Reinosa                                 ,2,EF3340,FFFFFF                                    
 62T0002C1  ,C1  ,Reinosa                                 -Santander                               ,2,EF3340,FFFFFF                                    
 62T0003C2  ,C2  ,Santander                               -CabezÃ³n De La Sal                       ,2,009645,FFFFFF                                    
