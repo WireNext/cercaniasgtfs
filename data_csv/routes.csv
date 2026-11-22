@@ -209,6 +209,8 @@ route_id,route_short_name,route_long_name,route_type,route_color,route_text_colo
 51T0112RG1 ,RG1 ,Figueres                                -MaÃ§anet-Massanes                        ,2,409EF5,FFFFFF                                    
 51T0113R15 ,R15 ,Cunit                                   -Riba-roja d'Ebre                        ,2,978571,FFFFFF                                    
 51T0114R15 ,R15 ,Riba-roja d'Ebre                        -Cunit                                   ,2,978571,FFFFFF                                    
+51T0115R14 ,R14 ,Lleida                                  -Cunit                                   ,2,6C60A8,FFFFFF                                    
+51T0116R14 ,R14 ,Cunit                                   -Lleida                                  ,2,6C60A8,FFFFFF                                    
 51T0119R11 ,R11 ,Barcelona-Sant Andreu                   -Girona                                  ,2,0069AA,FFFFFF                                    
 51T0120R11 ,R11 ,Girona                                  -Barcelona-Sant Andreu                   ,2,0069AA,FFFFFF                                    
 51T0123R15 ,R15 ,Reus                                    -Torredembarra                           ,2,978571,FFFFFF                                    
