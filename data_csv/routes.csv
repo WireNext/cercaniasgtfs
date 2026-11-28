@@ -15,12 +15,11 @@ route_id,route_short_name,route_long_name,route_type,route_color,route_text_colo
 10T0016C4b ,C4b ,Parla                                   -Colmenar Viejo                          ,2,2C2A86,FFFFFF                                    
 10T0017C5  ,C5  ,Mostoles el Soto                        -Humanes                                 ,2,FECB00,FFFFFF                                    
 10T0018C5  ,C5  ,Humanes                                 -Mostoles el Soto                        ,2,FECB00,FFFFFF                                    
-10T0025C9  ,C9  ,Cercedilla                              -Cotos                                   ,2,915419,FFFFFF                                    
-10T0026C9  ,C9  ,Cotos                                   -Cercedilla                              ,2,915419,FFFFFF                                    
 10T0027C8a ,C8a ,Atocha                                  -El Escorial                             ,2,868584,FFFFFF                                    
 10T0035C5  ,C5  ,                                        -Fuenlabrada                             ,2,FECB00,FFFFFF                                    
 10T0047C5  ,C5  ,Atocha                                  -Fuenlabrada                             ,2,FECB00,FFFFFF                                    
 10T0048C5  ,C5  ,Fuenlabrada                             -Atocha                                  ,2,FECB00,FFFFFF                                    
+10T0050C2  ,C2  ,Atocha                                  -Guadalajara                             ,2,00943D,FFFFFF                                    
 10T0051C7  ,C7  ,Principe Pio                            -ChamartÃ­n - Clara Campoamor             ,2,E5202A,FFFFFF                                    
 10T0052C7  ,C7  ,ChamartÃ­n - Clara Campoamor             -Principe Pio                            ,2,E5202A,FFFFFF                                    
 10T0053C7  ,C7  ,Principe Pio                            -Atocha                                  ,2,E5202A,FFFFFF                                    
@@ -63,6 +62,8 @@ route_id,route_short_name,route_long_name,route_type,route_color,route_text_colo
 20T0026C6  ,C6  ,El BerrÃ³n                               -Nava                                    ,2,579BE2,FFFFFF                                    
 20T0027C8  ,C8  ,Figareo                                 -Morea/Moreda                            ,2,FDC02C,FFFFFF                                    
 20T0028C8  ,C8  ,Morea/Moreda                            -Figareo                                 ,2,FDC02C,FFFFFF                                    
+20T0103C7  ,C7  ,                                        -                                        ,2,BCCF00,FFFFFF                                    
+20T0104C7  ,C7  ,                                        -                                        ,2,BCCF00,FFFFFF                                    
 20T0105C5a ,C5a ,Gijon (Sanz Crespo)                     -Oviedo                                  ,2,C4D600,FFFFFF                                    
 20T0106C5a ,C5a ,Oviedo                                  -Gijon (Sanz Crespo)                     ,2,C4D600,FFFFFF                                    
 20T0109C6  ,C6  ,El BerrÃ³n                               -L'infiestu Apd                          ,2,579BE2,FFFFFF                                    
@@ -123,6 +124,7 @@ route_id,route_short_name,route_long_name,route_type,route_color,route_text_colo
 40T0026C3  ,C3  ,Valencia - Sant Isidre                  -BuÃ±ol                                   ,2,7A2780,FFFFFF                                    
 40T0029C2  ,C2  ,Benifaio - Almussafes                   -Xativa                                  ,2,F79529,FFFFFF                                    
 40T0030C2  ,C2  ,Xativa                                  -Benifaio - Almussafes                   ,2,F79529,FFFFFF                                    
+40T0031C5  ,C5  ,                                        -                                        ,2,018A27,FFFFFF                                    
 40T0043C3  ,C3  ,Valencia Nord                           -BuÃ±ol                                   ,2,7A2780,FFFFFF                                    
 40T0044C3  ,C3  ,BuÃ±ol                                   -Valencia Nord                           ,2,7A2780,FFFFFF                                    
 40T0045C3  ,C3  ,Valencia - F.S.L.                       -BuÃ±ol                                   ,2,7A2780,FFFFFF                                    
@@ -223,6 +225,7 @@ route_id,route_short_name,route_long_name,route_type,route_color,route_text_colo
 51T0164R15 ,R15 ,Mora la Nova                            -                                        ,2,978571,FFFFFF                                    
 51T0175R13 ,R13 ,La Plana-Picamoixons                    -Sant Vicenc de Calders                  ,2,146520,FFFFFF                                    
 51T0176R13 ,R13 ,Sant Vicenc de Calders                  -La Plana-Picamoixons                    ,2,146520,FFFFFF                                    
+51T0185R4  ,R4  ,Barcelona-Fabra i Puig                  -CornellÃ                                 ,2,F7A30D,FFFFFF                                    
 51T0187R13 ,R13 ,La Plana-Picamoixons                    -Lleida                                  ,3,146520,FFFFFF                                    
 51T0188R3  ,R3  ,Granollers-Canovelles                   -Barcelona-Fabra i Puig                  ,3,E54A3C,FFFFFF                                    
 51T0189R3  ,R3  ,La Garriga                              -Vic                                     ,3,E54A3C,FFFFFF                                    
@@ -244,10 +247,11 @@ route_id,route_short_name,route_long_name,route_type,route_color,route_text_colo
 51T0205R3  ,R3  ,La Tor de Querol-Enveig                 -Vic                                     ,3,E54A3C,FFFFFF                                    
 51T0206R3  ,R3  ,La Tor de Querol-Enveig                 -Ripoll                                  ,3,E54A3C,FFFFFF                                    
 51T0207R13 ,R13 ,Lleida                                  -La Plana-Picamoixons                    ,3,146520,FFFFFF                                    
-51T0208R3  ,R3  ,Barcelona-Fabra i Puig                  -Granollers-Canovelles                   ,3,E54A3C,FFFFFF                                    
-51T0209R3  ,R3  ,Barcelona-Fabra i Puig                  -La Garriga                              ,3,E54A3C,FFFFFF                                    
-51T0210R3  ,R3  ,Barcelona-Fabra i Puig                  -Centelles                               ,3,E54A3C,FFFFFF                                    
-51T0211R3  ,R3  ,Barcelona-Fabra i Puig                  -Vic                                     ,3,E54A3C,FFFFFF                                    
+51T0208R4  ,R4  ,Terrassa EstaciÃ³ del Nord               -Manresa                                 ,3,F7A30D,FFFFFF                                    
+51T0209R3  ,R3  ,Barcelona-Fabra i Puig                  -Granollers-Canovelles                   ,3,E54A3C,FFFFFF                                    
+51T0210R3  ,R3  ,Barcelona-Fabra i Puig                  -La Garriga                              ,3,E54A3C,FFFFFF                                    
+51T0211R3  ,R3  ,Barcelona-Fabra i Puig                  -Centelles                               ,3,E54A3C,FFFFFF                                    
+51T0212R3  ,R3  ,Barcelona-Fabra i Puig                  -Vic                                     ,3,E54A3C,FFFFFF                                    
 60T0001C1  ,C1  ,Abando                                  -Santurtzi                               ,2,D7001E,FFFFFF                                    
 60T0002C1  ,C1  ,Santurtzi                               -Abando                                  ,2,D7001E,FFFFFF                                    
 60T0003C2  ,C2  ,Abando                                  -Muskiz                                  ,2,0F8C2D,FFFFFF                                    
@@ -260,6 +264,7 @@ route_id,route_short_name,route_long_name,route_type,route_color,route_text_colo
 60T0018C5  ,C5  ,Karranza                                -Aranguren                               ,2,2C2A86,FFFFFF                                    
 60T0019C5  ,C5  ,                                        -Bilbao La Concordia                     ,2,2C2A86,FFFFFF                                    
 60T0020C5  ,C5  ,Bilbao La Concordia                     -                                        ,2,2C2A86,FFFFFF                                    
+60T0025C5  ,C5  ,                                        -                                        ,2,2C2A86,FFFFFF                                    
 61T0001C1  ,C1  ,Irun                                    -Brincola                                ,2,DA001C,FFFFFF                                    
 61T0002C1  ,C1  ,Brincola                                -Irun                                    ,2,DA001C,FFFFFF                                    
 61T0003C1  ,C1  ,Lezo-Renteria                           -Beasain                                 ,2,DA001C,FFFFFF                                    
@@ -271,6 +276,9 @@ route_id,route_short_name,route_long_name,route_type,route_color,route_text_colo
 62T0004C2  ,C2  ,CabezÃ³n De La Sal                       -Santander                               ,2,009645,FFFFFF                                    
 62T0005C3  ,C3  ,Santander                               -LiÃ©rganes                               ,2,0060A9,FFFFFF                                    
 62T0006C3  ,C3  ,LiÃ©rganes                               -Santander                               ,2,0060A9,FFFFFF                                    
+62T0011C3  ,C3  ,                                        -                                        ,2,0060A9,FFFFFF                                    
+62T0037C3  ,C3  ,Astillero                               -Santander                               ,2,0060A9,FFFFFF                                    
+62T0038C3  ,C3  ,Santander                               -Astillero                               ,2,0060A9,FFFFFF                                    
 70T0001C1  ,C1  ,Casetas                                 -Miraflores                              ,2,D90724,FFFFFF                                    
 70T0002C1  ,C1  ,Miraflores                              -Casetas                                 ,2,D90724,FFFFFF                                    
 70T0005C1  ,C1  ,Zaragoza Delicias                       -                                        ,2,D90724,FFFFFF                                    
